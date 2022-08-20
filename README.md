@@ -1,6 +1,7 @@
 # Github-pc
 
-You may choose to run this from a python file or as an exe
+2D Particle Simulator
+
 
 Change variables in Initial_params.txt to control simulation parameters
 
