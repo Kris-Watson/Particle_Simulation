@@ -1,0 +1,17 @@
+﻿<!doctype html>
+<title>Hello from Flask</title>
+<body onload="InitDemo();">
+	<canvas id="game-surface" width="800" height ="600">
+		your browser does not support HTML5
+	</canvas>
+	<br />
+
+  {% if data %} <!-- checks if simulation data exists -->
+  <p>Data found!</p>
+    <script>
+      var newData='{{ data }}'; //Collects simulation data from python
+    </script>
+  <script src="{{url_for('static', filename='main.js')}}"></script>
+  {% endif %}
+
+</body>
