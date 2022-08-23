@@ -144,7 +144,7 @@ def main():
 	
 
 	#----------- Functions to spawn particles using user data
-	particlePositions = np.random.randint(0, 100, size=(numberOfParticles, 2)).argsort(axis = 0).astype(float) # Creates random particle positions
+	particlePositions = np.random.randint(0, 100, size=(numberOfParticles, 2)).astype(float) # Creates random particle positions
 	particleVelocities = np.random.rand(numberOfParticles, 2)# Asigns velocity to above particles
 
 	#----------- Normalize data for webgl
