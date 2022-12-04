@@ -1,5 +1,4 @@
 # Intro
-
 2D Particle Simulator:
 A simple program that initializes random initial positions and velocities for point particles and shows their movement.
 
@@ -19,7 +18,6 @@ Python modules used :-
 
 # Future Development Plans
 (Stuff that is possible but I don't have the time to implement)
-
 - Current code is rather inefficient and it is possible to optimize further.
 - Custom initial parameters using a csv file.
 - Continuous data creation and simulation (if code is fast enough).
