@@ -15,3 +15,12 @@ Python modules used :-
 - Using math to demonstrate physical phenomenon in a computer simulation.
 - Javascript and python integration using Flask.
 - Hands-on with WebGL.
+
+
+# Future Development Plans
+(Stuff that is possible but I don't have the time to implement)
+
+- Current code is rather inefficient and it is possible to optimize further.
+- Custom initial parameters using a csv file.
+- Continuous data creation and simulation (if code is fast enough).
+- Dynamic user input and simulation parameter updates (see last point).
