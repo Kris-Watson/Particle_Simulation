@@ -12,6 +12,6 @@ Python modules used :-
 
 # Objectives
 
-  Using math to demonstrate physical phenomenon in a computer simulation.
-  Javascript and python integration using Flask.
-  Hands-on with WebGL.
+Using math to demonstrate physical phenomenon in a computer simulation.
+Javascript and python integration using Flask.
+Hands-on with WebGL.
